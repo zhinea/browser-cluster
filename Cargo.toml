@@ -1,0 +1,12 @@
+[package]
+name = "browser_cluster"
+version = "0.1.0"
+edition = "2024"
+description = "Library sederhana untuk menyapa orang"
+license = "MIT"
+repository = "https://github.com/zhinea/browser-cluster"
+keywords = ["headless-browser", "puppeteer", "browser", "cluster"]
+categories = ["accessibility"]
+
+[dependencies]
+thiserror = "2.0.12"
